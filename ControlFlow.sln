@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenWereYouBorn", "WhenWere
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrivingLisence", "DrivingLisence\DrivingLisence.csproj", "{1F91C3E2-6637-4A34-ACCB-EA255169BA44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositiveNegative", "PositiveNegative\PositiveNegative.csproj", "{5BBE0D20-EE1C-4361-A3B5-4D64E2E31B79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F91C3E2-6637-4A34-ACCB-EA255169BA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F91C3E2-6637-4A34-ACCB-EA255169BA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F91C3E2-6637-4A34-ACCB-EA255169BA44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BBE0D20-EE1C-4361-A3B5-4D64E2E31B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BBE0D20-EE1C-4361-A3B5-4D64E2E31B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BBE0D20-EE1C-4361-A3B5-4D64E2E31B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BBE0D20-EE1C-4361-A3B5-4D64E2E31B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
